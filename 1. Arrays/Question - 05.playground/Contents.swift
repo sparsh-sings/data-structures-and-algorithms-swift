@@ -52,4 +52,3 @@ let inputArrayOne: [Int] = [1,2,2,1]
 let inputArrayTwo: [Int] = [2,2]
 let result = findIntersection(inputArrayOne, inputArrayTwo)
 print(result)
-
